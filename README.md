@@ -84,8 +84,4 @@ And in the future, I plan to resume my live streams on Twitch. If you're interes
 </div>
 
 ### 📊 Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dbdev8000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dbdev8000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![dbdev8000's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dbdev8000&theme=dracula&show_icons=true&hide_border=false&layout=compact)
