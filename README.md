@@ -84,5 +84,4 @@ And in the future, I plan to resume my live streams on Twitch. If you're interes
 </div>
 
 ### 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbdev8000&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
