@@ -72,17 +72,6 @@ And in the future, I plan to resume my live streams on Twitch. If you're interes
   <a href = "mailto:dbdev8000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://x.com/dbdev8000" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a> 
 
-  
-</div>
-
-### 🎮 For games
-
- <a href="https://www.twitch.tv/plunel" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- 	<a href="https://plunel.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" target="_blank"></a>
-  <a href = "https://steamcommunity.com/id/plunel/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
-  
-</div>
-
 ### 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbdev8000&layout=compact)
