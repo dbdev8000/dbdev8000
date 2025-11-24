@@ -70,8 +70,6 @@ And in the future, I plan to resume my live streams on Twitch. If you're interes
  <a href="https://www.linkedin.com/in/dbdev8000/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dbdev8000" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dbdev8000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://x.com/dbdev8000" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a> 
-
 ### 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbdev8000&layout=compact)
